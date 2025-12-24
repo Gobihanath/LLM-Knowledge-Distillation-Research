@@ -1,0 +1,6 @@
+# requirements.txt
+openai
+pandas
+scikit-learn
+rouge-score
+numpy
