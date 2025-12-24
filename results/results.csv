@@ -1,0 +1,2 @@
+Model,Average ROUGE-L,Average BLEU,Average METEOR,BERTScore-F1
+llama3.1_8b,0.3195,19.1496,0.4773,0.6999

@@ -1,0 +1,21 @@
+ipykernel
+numpy
+pandas
+ollama
+scikit-learn
+evaluate 
+nltk==3.8.1
+requests
+google
+matplotlib
+seaborn
+rouge-score
+transformers
+torch
+accelerate
+sacrebleu
+bert_score
+huggingface_hub
+# os
+re
+datetime
